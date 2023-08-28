@@ -2,7 +2,7 @@
 
 I'm a Software Developer. I like to analyze problems and design solutions to solve them. I try to be a clean coder, consistent and performant. <br>I really like to keep myself learning new stuff. "Context", "it depends" and "pragmatism" are my favorite terms.
 
-- 👨🏻‍💻 I currently work as a long-term contractor at [C2FO](https://github.com/C2FO) through [number8](https://github.com/number8)(staffing firm).
+- 👨🏻‍💻 I currently work as a long-term contractor at [NerdWallet](https://github.com/NerdWallet) through [number8](https://github.com/number8)(staffing firm).
 - 😄 Pronouns: He/Him/His
 
 ## 🌐 Socials:
